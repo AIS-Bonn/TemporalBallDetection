@@ -1,0 +1,1 @@
+<annotation><folder>train_cnn</folder><filename>frame0934_imageset_432</filename><source><database>visionlab</database></source><size><width>640</width><height>480</height><depth>3</depth></size><object><name>ball</name><bndbox><xmin>143</xmin><ymin>220</ymin><xmax>188</xmax><ymax>264</ymax></bndbox></object></annotation>

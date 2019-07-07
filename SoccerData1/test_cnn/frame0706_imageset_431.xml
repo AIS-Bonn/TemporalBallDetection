@@ -1,0 +1,1 @@
+<annotation><folder>test_cnn</folder><filename>frame0706_imageset_431</filename><source><database>visionlab</database></source><size><width>640</width><height>480</height><depth>3</depth></size><object><name>ball</name><bndbox><xmin>265</xmin><ymin>233</ymin><xmax>323</xmax><ymax>291</ymax></bndbox></object></annotation>
