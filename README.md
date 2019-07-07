@@ -54,10 +54,10 @@ arguments.py
 ### Reference
 
 ```
-@inproceedings{schnekenburger2017detection,
-  title={Detection and Localization of Features on a Soccer Field with Feedforward Fully Convolutional Neural Networks (FCNN) for the Adult-Size Humanoid Robot Sweaty},
-  author={Schnekenburger, Fabian and Scharffenberg, Manuel and W{\"u}lker, Michael and Hochberg, Ulrich and Dorer, Klaus},
-  booktitle={Proceedings of the 12th Workshop on Humanoid Soccer Robots, IEEE-RAS International Conference on Humanoid Robots, Birmingham},
-  year={2017}
+@inproceedings{Kukleva,
+  title={Utilizing Temporal Information in Deep Convolutional Network for Efficient Soccer Ball Detection and Tracking },
+  author={Kukleva, Anna and Asif Khan, Mohammad and Farazi, Hafez and Behnke, Sven},
+  booktitle={Accepted for 23th RoboCup International Symposium, Sydney, Australia, to appear July 2019. },
+  year={2019}
 }
 ```
