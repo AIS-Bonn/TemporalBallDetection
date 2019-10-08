@@ -1,5 +1,8 @@
 # Soccer Ball Detection using Deep CNN
 
+Official implementation of the paper "Utilizing Temporal Information in Deep Convolutional Network for Efficient Soccer Ball
+Detection and Tracking" [(link)](https://2019.robocup.org/downloads/program/KuklevaEtAl2019.pdf)
+
 # Usage
 prepare datasets
 ```
